@@ -13,5 +13,7 @@ public class Main {
 
         System.out.println("¡Buena suerte en el sorteo!");
 
+        System.out.println("Cambio realizado desde GitHub");
+
     }
 }
